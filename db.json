@@ -1,0 +1,11 @@
+{
+  "opportunities": [ {
+    "id" : 0,
+    "account" : "string",
+    "currency" : "British Pounds",
+    "value" : 1.100000023841858,
+    "type" : "Existing Business",
+    "stage" : "Quote",
+    "expectedClose" : "2015-07-20"
+  } ]
+}
