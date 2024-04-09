@@ -1,11 +1,28 @@
 {
-  "opportunities": [ {
-    "id" : 0,
-    "account" : "string",
+  "opportunities": [
+    { "id" : 0,
+    "account" : "ABC Ltd",
     "currency" : "British Pounds",
-    "value" : 1.100000023841858,
+    "value" : 10.50,
     "type" : "Existing Business",
     "stage" : "Quote",
     "expectedClose" : "2015-07-20"
-  } ]
+    },
+    { "id" : 1,
+    "account" : "DEF Ltd",
+    "currency" : "British Pounds",
+    "value" : 550.29,
+    "type" : "Existing Business",
+    "stage" : "Quote",
+    "expectedClose" : "2015-07-20"
+    },
+    { "id" : 2,
+    "account" : "GHI Ltd",
+    "currency" : "Euros",
+    "value" : 100.99,
+    "type" : "New Business",
+    "stage" : "Quote",
+    "expectedClose" : "2015-07-20"
+    }
+  ]
 }
